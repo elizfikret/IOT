@@ -1,8 +1,8 @@
 import network
  
 def connect():
-  ssid = "VIVACOM_FiberNet_93D4"
-  password =  "zaniK2KMcs"
+  ssid = "your wifi name"
+  password =  "your password"
  
   station = network.WLAN(network.STA_IF)
  
